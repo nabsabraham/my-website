@@ -6,7 +6,7 @@ draft: true
 
 +++
 abstract = "An abstract..."
-authors = ["Nabila Abraham*", "Naimul Mefraz Khan"]
+authors = ["Nabila Abraham", "Naimul Mefraz Khan"]
 date = "2013-07-01"
 image = ""
 image_preview = ""
