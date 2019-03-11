@@ -65,7 +65,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://https://github.com/nabsabraham"
+  link = "https://github.com/nabsabraham"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -75,4 +75,4 @@ user_groups = ["Researchers", "Visitors"]
 #   link = "files/cv.pdf"
 
 +++
-I am a graduate student at Ryerson Multimedia Lab pursuing the intersection of deep learning and medical imaging. My research interests include semantic segmentation and of late, I have become very interested in generative models for supervised tasks. 
+I am a graduate student at Ryerson Multimedia Lab pursuing the intersection of deep learning and medical imaging. My research interests include semantic segmentation and recently, I have become very interested in generative models for supervised tasks. 
