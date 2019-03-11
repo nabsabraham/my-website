@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Nabila Abraham"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,23 +9,22 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Graduate Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Ryerson University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+#bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Manifold learning",
+  "Latent variable models"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -76,4 +75,4 @@ user_groups = ["Researchers", "Visitors"]
 #   link = "files/cv.pdf"
 
 +++
-Hi all! I am a graduate student pursuing the intersection of deep learning and medical imaging. My research interests include semantic segmentation and of late, I have become very interested in representation/manifold learning. 
+I am a graduate student at Ryerson Multimedia Lab pursuing the intersection of deep learning and medical imaging. My research interests include semantic segmentation and of late, I have become very interested in generative models for supervised tasks. 
