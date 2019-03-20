@@ -10,6 +10,6 @@ view = 2
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "network.pdf"
 caption = ""
 +++

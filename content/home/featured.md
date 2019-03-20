@@ -4,8 +4,8 @@
 # `featured = true` in their front matter.
 
 widget = "featured"  # Do not modify this line!
-active = false  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
 
 title = "Featured Publications"
 subtitle = ""
