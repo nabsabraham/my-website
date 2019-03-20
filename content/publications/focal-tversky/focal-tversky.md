@@ -1,7 +1,7 @@
 ---
 title: "Focal Tversky"
 date: 2019-03-11T11:08:05-04:00
-draft: true
+draft: false
 ---
 
 +++
