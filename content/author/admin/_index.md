@@ -76,3 +76,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 I am a graduate student at [Ryerson Multimedia Lab](https://www.ryerson.ca/multimedia-research-laboratory/) supervised by [Dr. Naimul Khan](https://www.ee.ryerson.ca/people/NKhan.html). My research area focuses on the intersection of deep learning and medical imaging problems such as organ/lesion segmentation. Recently, I have become very interested in utilizing generative models for semi-supervised tasks. 
++++
