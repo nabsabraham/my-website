@@ -3,7 +3,7 @@
 # This section displays recent blog posts from `content/post/`.
 
 widget = "pages"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Recent Posts"
@@ -44,7 +44,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  #color = "navy"
+  # color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
