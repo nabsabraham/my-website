@@ -18,7 +18,7 @@ authors = ["Naimul Mefraz Khan" , "**Nabila Abraham**" , "Ling Guan"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = " International Conference on Multimedia Information Processing and Retrieval."
+publication = "International Conference on Multimedia Information Processing and Retrieval, 2019."
 #publication_short = "MIPR"
 
 # Abstract and optional shortened version.
@@ -65,5 +65,5 @@ highlight = true
 #caption = "My caption :smile:"
 
 +++
-
+In *International Conference on Multimedia Information Processing and Retrieval*, 2019.
 
