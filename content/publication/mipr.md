@@ -1,6 +1,6 @@
 +++
 title = "Machine Learning on Biomedical Images: Interactive Learning, Transfer Learning, Class Imbalance, and Beyond"
-date = "2018-12-01"
+date = "2019-03-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
@@ -18,11 +18,11 @@ authors = ["Naimul Mefraz Khan" , "**Nabila Abraham**" , "Ling Guan"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "International Conference on Multimedia Information Processing and Retrieval, 2019."
+publication = "International Conference on Multimedia Information Processing and Retrieval."
 #publication_short = "MIPR"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "A case study review on three issues that limit performance of machine learning on biomedical images."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -65,7 +65,5 @@ image = "brain.jpg"
 #caption = "My caption :smile:"
 
 +++
-**tl;dr**  A case study review on three issues that limit performance of machine learning on biomedical images.
-
-In *International Conference on Multimedia Information Processing and Retrieval*, 2019.
+In *International Conference on Multimedia Information Processing and Retrieval*, 2019. 
 

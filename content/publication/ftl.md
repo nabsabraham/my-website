@@ -1,6 +1,6 @@
 +++
 title = "A Novel Focal Tversky loss function with improved Attention U-Net for lesion segmentation"
-date = "2018-12-01"
+date = "2019-4-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
@@ -18,7 +18,7 @@ authors = ["**Nabila Abraham**","Naimul Mefraz Khan"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "International Symposium on Biomedical Imaging, 2019."
+publication = "International Symposium on Biomedical Imaging."
 #publication_short = "ISBI"
 
 # Abstract and optional shortened version.
@@ -68,7 +68,5 @@ image = "ftl.png"
 #caption = "My caption :smile:"
 
 +++
-**tl;dr**  We propose a generalized focal loss function based on the Tversky index to address the issue of data imbalance in medical image segmentation. 
-
 In *International Symposium on Biomedical Imaging*, 2019. 
 **Oral**.
