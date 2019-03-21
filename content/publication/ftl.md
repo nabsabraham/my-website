@@ -1,10 +1,10 @@
 +++
-title = "Machine Learning on Biomedical Images: Interactive Learning, Transfer Learning, Class Imbalance, and Beyond"
+title = "A Novel Focal Tversky loss function with improved Attention U-Net for lesion segmentation"
 date = "2018-12-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["Naimul Mefraz Khan" , "Nabila Abraham" , "Ling Guan"]
+authors = ["**Nabila Abraham**","Naimul Mefraz Khan"]
 
 # Publication type.
 # Legend:
