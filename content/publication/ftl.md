@@ -1,6 +1,6 @@
 +++
 title = "A Novel Focal Tversky loss function with improved Attention U-Net for lesion segmentation"
-date = "2019-4-01"
+date = "2018-12-18"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
@@ -31,7 +31,7 @@ abstract_short = "We propose a generalized focal loss function based on the Tver
 image_preview = "static/img/ftl.png"
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -68,5 +68,6 @@ image = "ftl.png"
 #caption = "My caption :smile:"
 
 +++
+We propose a generalized focal loss function based on the Tversky index to address the issue of data imbalance in medical image segmentation
 In *International Symposium on Biomedical Imaging*, 2019. 
 **Oral**.

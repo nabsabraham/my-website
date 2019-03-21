@@ -1,6 +1,6 @@
 +++
 title = "Machine Learning on Biomedical Images: Interactive Learning, Transfer Learning, Class Imbalance, and Beyond"
-date = "2019-03-01"
+date = "2018-12-2"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
