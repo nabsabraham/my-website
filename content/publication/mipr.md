@@ -65,7 +65,7 @@ image = "brain.jpg"
 #caption = "My caption :smile:"
 
 +++
-**tl;dr** A case study review on three issues that limit performance of machine learning on biomedical images.
+**tl;dr**  A case study review on three issues that limit performance of machine learning on biomedical images.
 
 In *International Conference on Multimedia Information Processing and Retrieval*, 2019.
 
