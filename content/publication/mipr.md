@@ -22,7 +22,7 @@ publication = "International Conference on Multimedia Information Processing and
 #publication_short = "MIPR"
 
 # Abstract and optional shortened version.
-abstract = "A case study review on three issues that limit performance of machine learning on biomedical images."
+abstract = "A case study on factors that limit peformance of machine learning on biomedical images."
 
 # Featured image thumbnail (optional)
 image_preview = ""
