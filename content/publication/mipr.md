@@ -1,6 +1,6 @@
 +++
-title = "Predicting thermal vulnerability of stream and river ecosystems to climate change"
-date = "2014-08-01"
+title = "Machine Learning on Biomedical Images: Interactive Learning, Transfer Learning, Class Imbalance, and Beyond"
+date = "2018-12-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
@@ -37,7 +37,7 @@ selected = false
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://arxiv.org/abs/1902.05908"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -48,9 +48,9 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-[[url_custom]]
-name = "Journal"
-url = "https://link.springer.com/article/10.1007/s10584-014-1174-4"
+#[[url_custom]]
+#name = "Journal"
+#url = "https://link.springer.com/article/10.1007/s10584-014-1174-4"
 
 # Does the content use math formatting?
 math = true
