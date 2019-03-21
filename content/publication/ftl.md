@@ -18,17 +18,20 @@ authors = ["**Nabila Abraham**","Naimul Mefraz Khan"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "International Symposium on Biomedical Imaging."
-#publication_short = "ISBI"
+publication = "International Symposium on Biomedical Imaging 2019."
+publication_short = "ISBI"
 
 # Abstract and optional shortened version.
 abstract = "We propose a generalized focal loss function based on the Tversky index to address the issue of data imbalance in medical image segmentation. Compared to the commonly used Dice loss, our loss function achieves a better trade off between precision and recall when training on small structures such as lesions. To evaluate our loss function, we improve the attention U-Net model by incorporating an image pyramid to preserve contextual features. We experiment on the BUS 2017 dataset and ISIC 2018 dataset where lesions occupy 4.84% and 21.4% of the images area and improve segmentation accuracy when compared to the standard U-Net by 25.7% and 3.6%, respectively."
 
+abstract_short = "We propose a generalized focal loss function based on the Tversky index to address the issue of data imbalance in medical image segmentation."
+
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "static/img/"
 
 # Is this a selected publication? (true/false)
 selected = true
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
