@@ -28,7 +28,7 @@ publication = "International Symposium on Biomedical Imaging, 2019."
 abstract_short = "We propose a generalized focal loss function based on the Tversky index to address the issue of data imbalance in medical image segmentation."
 
 # Featured image thumbnail (optional)
-image_preview = "static/img/ftl.png"
+#image_preview = "static/img/ftl.png"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -64,10 +64,11 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-#image = "ftl.png"
+image = "ftl.png"
 #caption = "My caption :smile:"
 
 +++
+**tl;dr** We propose a generalized focal loss function based on the Tversky index to address the issue of data imbalance in medical image segmentation. 
 
 In *International Symposium on Biomedical Imaging*, 2019. 
 **Oral**.
