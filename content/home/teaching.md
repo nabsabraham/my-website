@@ -67,9 +67,10 @@ subtitle = ""
  css_class = ""
 +++
 
-I am currently a TA for ELE202: Electric Circuit Analysis
-Past TA-ships:
-<h3> Department of Electrical, Computer and Biomedical Engineering (ECBE) </h3>
+<p> I am currently a TA for ELE202: Electric Circuit Analysis. </p>
+
+Past TA-ships at Ryerson University:
+<h4> Department of Electrical, Computer and Biomedical Engineering (ECBE) </h4>
 
 + ELE202 - Electric Circuit Analysis  *(Winter 2018)*
   * Lab bench
@@ -78,7 +79,7 @@ Past TA-ships:
 + ELE532 - Signals and Systems 1    *(Fall 2017)*
   * MATLAB
 
-<h3> Department of Masters of Digital Media (MDM) </h3>
+<h4> Masters of Digital Media (MDM) </h4>
 
 + DG8002 - Digital Media Environments *(Fall 2018)*
   * HTML, CSS, JavaScript, Python
