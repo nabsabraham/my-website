@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistantships (TA)"
 date: 2019-03-24T02:21:46-04:00
-draft: false
+draft: true
 ---
 
 I am currently a TA for ELE202: Electric Circuit Analysis
