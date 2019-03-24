@@ -68,13 +68,17 @@ subtitle = ""
 +++
 
 I am currently a TA for ELE202: Electric Circuit Analysis
-
 Past TA-ships:
-* DG8002 - Digital Media Environments *(Fall 2018)*
-  * HTML, CSS, JavaScript, Python
-* ELE202 - Electric Circuit Analysis  *(Winter 2018)*
+<h3> Department of Electrical, Computer and Biomedical Engineering (ECBE) </h3>
+
++ ELE202 - Electric Circuit Analysis  *(Winter 2018)*
   * Lab bench
-* BME802 - Human Computer Interaction *(Winter 2018)* 
++ BME802 - Human Computer Interaction *(Winter 2018)* 
   * MATLAB
-* ELE532 - Signals and Systems 1    *(Fall 2017)*
++ ELE532 - Signals and Systems 1    *(Fall 2017)*
   * MATLAB
+
+<h3> Department of Masters of Digital Media (MDM) </h3>
+
++ DG8002 - Digital Media Environments *(Fall 2018)*
+  * HTML, CSS, JavaScript, Python
