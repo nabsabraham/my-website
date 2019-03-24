@@ -2,7 +2,7 @@
 # A Recent and Upcoming Talks section created with the Pages widget.
 # This section displays recent talks from `content/talk/`.
 
-widget = "pages"  # Do not modify this line!
+widget = "custom"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
@@ -66,3 +66,15 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+I am currently a TA for ELE202: Electric Circuit Analysis
+
+Past TA-ships:
+* DG8002 - Digital Media Environments *(Fall 2018)*
+  * HTML, CSS, JavaScript, Python
+* ELE202 - Electric Circuit Analysis  *(Winter 2018)*
+  * Lab bench
+* BME802 - Human Computer Interaction *(Winter 2018)* 
+  * MATLAB
+* ELE532 - Signals and Systems 1    *(Fall 2017)*
+  * MATLAB
