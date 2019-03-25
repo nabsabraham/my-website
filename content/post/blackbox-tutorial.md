@@ -4,7 +4,7 @@ date: 2019-03-25T14:21:27-04:00
 draft: true
 ---
 
-I've created this tutorial for first year undergraduate students at Ryerson University attending ELE202. This forum will allow students to communicate doubts using the comments feature. 
+I've created this tutorial for first year undergraduate students at Ryerson University attending ELE202. This forum will allow students to communicate doubts using the Disqus comments feature. 
 
 There are four possible combinations in the black box:
 * RC Series
@@ -16,7 +16,7 @@ We will use AC analysis to figure out which of the four combinations is
 inside the black box and also, what the values of the components are.
 
 ### Step 1: Build the circuit
-![Set up circuit in series with a test resistor of your choice. I've chosen $20 \Omega$](static/imgs/blackbox/setup.jpg)
+![Set up circuit in series with a test resistor of your choice. I've chosen $20 \Omega$.](static/imgs/blackbox/setup.jpg)
 
 ![Add in the oscilloscope probes.](static/imgs/blackbox/probes.jpg)
 
