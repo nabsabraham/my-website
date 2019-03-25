@@ -8,4 +8,4 @@ I've created this tutorial for first year undergraduate students at Ryerson Univ
 
 The pdf of this tutorial can be found [here](https://github.com/nabsabraham/my-website/blob/master/static/files/tut.pdf).
 
-The actual pdf of this tutorial can be found [here](files/tut.pdf).
+The actual pdf of this tutorial can be found [here](/files/tut.pdf).
