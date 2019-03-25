@@ -4,7 +4,7 @@
 
 widget = "custom"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = ""
@@ -68,7 +68,6 @@ subtitle = ""
 +++
 
 <p> I am currently a TA for ELE202: Electric Circuit Analysis. </p>
-I have put together a [Black Box Tutorial](static/files/tut.pdf) for the students.
 
 Past TA-ships at Ryerson University:
 <h4> Department of Electrical, Computer and Biomedical Engineering (ECBE) </h4>
