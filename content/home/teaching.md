@@ -68,6 +68,7 @@ subtitle = ""
 +++
 
 <p> I am currently a TA for ELE202: Electric Circuit Analysis. </p>
+I have put together a [Black Box Tutorial](static/files/tut.pdf) for the students.
 
 Past TA-ships at Ryerson University:
 <h4> Department of Electrical, Computer and Biomedical Engineering (ECBE) </h4>
