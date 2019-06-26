@@ -1,6 +1,6 @@
 +++
 title = "A Novel Focal Tversky loss function with improved Attention U-Net for lesion segmentation"
-date = "2018-12-18"
+date = "2019-04-09"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
@@ -39,7 +39,7 @@ featured = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "/files/0542.pdf"
 url_preprint = "https://arxiv.org/abs/1810.07842"
 url_code = "https://github.com/nabsabraham/focal-tversky-unet"
 url_dataset = ""

@@ -39,8 +39,8 @@ featured = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://ieeexplore-ieee-org.ezproxy.lib.ryerson.ca/document/8727911"
+url_pdf = "https://ieeexplore-ieee-org.ezproxy.lib.ryerson.ca/document/8727911"
+url_preprint = ""
 url_code = "https://github.com/nabsabraham/alzheimers"
 url_dataset = ""
 url_project = ""
