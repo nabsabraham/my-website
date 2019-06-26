@@ -36,8 +36,8 @@ selected = false
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://arxiv.org/abs/1902.05908"
+url_pdf = "https://ieeexplore-ieee-org.ezproxy.lib.ryerson.ca/document/8695354"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
