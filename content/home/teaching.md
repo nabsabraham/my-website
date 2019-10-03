@@ -67,12 +67,10 @@ subtitle = ""
  css_class = ""
 +++
 
-<p> I am currently a TA for ELE202: Electric Circuit Analysis. </p>
-
 Past TA-ships at Ryerson University:
 <h4> Department of Electrical, Computer and Biomedical Engineering (ECBE) </h4>
 
-+ ELE202 - Electric Circuit Analysis  *(Winter 2018)*
++ ELE202 - Electric Circuit Analysis  *(Winter 2018, 2019)*
   * Lab bench
 + BME802 - Human Computer Interaction *(Winter 2018)* 
   * MATLAB

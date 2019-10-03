@@ -6,7 +6,7 @@ date: 2019-03-24T02:21:46-04:00
 Past TA-ships:
 * DG8002 - Digital Media Environments	*(Fall 2018)*
 	* HTML, CSS, JavaScript, Python
-* ELE202 - Electric Circuit Analysis 	*(Winter 2018)*
+* ELE202 - Electric Circuit Analysis 	*(Winter 2018, 2019)*
 	* Lab bench
 * BME802 - Human Computer Interaction	*(Winter 2018)* 
 	* MATLAB
