@@ -76,4 +76,4 @@ user_groups = ["Researchers", "Visitors"]
    link = "files/cv.pdf"
 
 +++
-I am a graduate student at [Ryerson Multimedia Lab](https://www.ryerson.ca/multimedia-research-laboratory/) supervised by [Dr. Naimul Khan](https://www.ee.ryerson.ca/people/NKhan.html). My research area focuses on the intersection of deep learning and medical imaging problems such as organ/lesion segmentation. Recently, I have become very interested in utilizing generative models for semi-supervised tasks. 
+I am currently a Research Associate at the Lunenfeld-Tanenbaum Research Institute supervised by [Dr. Farzad Khalvati](https://sites.google.com/site/farzadkhalvati/) where I work on medical image analysis problems using deep learning. I am a recent graduate from the [Ryerson Multimedia Lab](https://www.ryerson.ca/multimedia-research-laboratory/) supervised by [Dr. Naimul Khan](https://www.ee.ryerson.ca/people/NKhan.html). My thesis research focused on improved medical image segmentation practices via a new objective function and a new multi-modal architecture. Recently, I have become very interested in utilizing generative models for semi-supervised tasks in computer vision. 
