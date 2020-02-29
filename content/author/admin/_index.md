@@ -24,7 +24,8 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Graph Neural Networks",
-  "Latent Variable Models"
+  "Latent Variable/Embedding Models",
+  "Natural Language Processing"
 ]
 
 # Organizational groups that you belong to (for People widget)
