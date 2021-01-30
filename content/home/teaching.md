@@ -66,8 +66,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+Current: 
+<h3> Assistant Lecturer, FinTech Bootcamp </h3>
+<h4> University of Toronto School of Continuing Education </h4>
++ Python, SQL, machine learning, deep learning, AWS, Solidity 
 
-Past TA-ships at Ryerson University:
+Past:
+<h3> Teaching Assistant, Ryerson University </h4>
 <h4> Department of Electrical, Computer and Biomedical Engineering (ECBE) </h4>
 
 + ELE202 - Electric Circuit Analysis  *(Winter 2018, 2019)*
@@ -77,6 +82,7 @@ Past TA-ships at Ryerson University:
 + ELE532 - Signals and Systems 1    *(Fall 2017)*
   * MATLAB
 
+<h3> Teaching Assistant, Ryerson University </h3>
 <h4> Masters of Digital Media (MDM) </h4>
 
 + DG8002 - Digital Media Environments *(Fall 2018)*
