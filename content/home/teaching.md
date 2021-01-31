@@ -66,13 +66,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-Current: 
-<h3> Assistant Lecturer, FinTech Bootcamp </h3>
+
+<h3> Assistant Lecturer, FinTech Bootcamp (Present) </h3>
 <h4> University of Toronto School of Continuing Education </h4>
+
 + Python, SQL, machine learning, deep learning, AWS, Solidity 
 
-Past:
-<h3> Teaching Assistant, Ryerson University </h4>
+
+<h3> Teaching Assistant, Ryerson University (2018-2019) </h4>
 <h4> Department of Electrical, Computer and Biomedical Engineering (ECBE) </h4>
 
 + ELE202 - Electric Circuit Analysis  *(Winter 2018, 2019)*
