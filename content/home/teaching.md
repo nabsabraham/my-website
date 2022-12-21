@@ -67,10 +67,14 @@ subtitle = ""
  css_class = ""
 +++
 
-<h3> Assistant Lecturer, FinTech Bootcamp (Present) </h3>
+<h3> Assistant Lecturer, FinTech Bootcamp (2020-2021) </h3>
 <h4> University of Toronto School of Continuing Education </h4>
 
-+ Python, SQL, machine learning, deep learning, AWS, Solidity 
++ Python
++ SQL
++ machine learning/deep learning
++ AWS
++ Solidity 
 
 
 <h3> Teaching Assistant, Ryerson University (2018-2019) </h4>
@@ -87,4 +91,7 @@ subtitle = ""
 <h4> Masters of Digital Media (MDM) </h4>
 
 + DG8002 - Digital Media Environments *(Fall 2018)*
-  * HTML, CSS, JavaScript, Python
+  * HTML
+  * CSS
+  * JavaScript
+  * Python
