@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Data Scientist"
+role = "Machine Learning Engineer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Loblaw Companies Limited", url = "" } ]
+# organizations = [ { name = "Loblaw Companies Limited", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 #bio = "My research interests include distributed robotics, mobile computing and programmable matter."
@@ -76,4 +76,4 @@ user_groups = ["Researchers", "Visitors"]
    link = "files/cv.pdf"
 
 +++
-I am an MLOps Engineer at [Covera Health](https://www.coverahealth.com/) where I build data pipelines and productionize ML Systems for the NLP team. I was previously a Data Scientist on the Data Science Health team at Loblaw Companies Limited working on predictive analytics for the health space. My prior research roles include Research Associate at the Lunenfeld-Tanenbaum Research Institute supervised by [Dr. Farzad Khalvati](https://sites.google.com/site/farzadkhalvati/) where I worked on medical image analysis problems using deep learning and several applied research assistant roles within the aerospace, robotics and biology departments in my undergrad. I graduated from the [Ryerson Multimedia Lab](https://www.ryerson.ca/multimedia-research-laboratory/) supervised by [Dr. Naimul Khan](https://www.ee.ryerson.ca/people/NKhan.html). My graduate thesis research focused on improved medical image segmentation practices via a new objective function and a new multi-modal architecture. Recently, I am interested in multi-modality problems and graph neural networks. 
+I am an MLOps Engineer II at [Covera Health](https://www.coverahealth.com/) where I build data pipelines and productionize ML Systems for the NLP team. I was previously a Data Scientist on the Data Science Health team at Loblaw Companies Limited working on predictive analytics for the health space. My prior research roles include Research Associate at the Lunenfeld-Tanenbaum Research Institute supervised by [Dr. Farzad Khalvati](https://sites.google.com/site/farzadkhalvati/) where I worked on medical image analysis problems using deep learning and several applied research assistant roles within the aerospace, robotics and biology departments in my undergrad. I graduated from the [Ryerson Multimedia Lab](https://www.ryerson.ca/multimedia-research-laboratory/) supervised by [Dr. Naimul Khan](https://www.ee.ryerson.ca/people/NKhan.html). My graduate thesis research focused on improved medical image segmentation practices via a new objective function and a new multi-modal architecture. Recently, I am interested in multi-modality problems and graph neural networks. 
